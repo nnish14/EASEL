@@ -1,0 +1,7 @@
+PID,Name,Age,Drone_Familiarity,Tech_Confidence,Motivation,T1_time,T1_success,T1_errors_crit,T1_errors_noncrit,T2_errors_crit,T2_errors_noncrit,T3_time,T3_success,T3_errors_crit,T3_errors_noncrit,UX_0_100,SUS_score,Key_issues,Final_Feedback
+0,P01,Aarav N.,19,Basic,Medium,Curious,14.8,Y,0,1,0,2,19.5,Y,0,1,76,74,"Missed alert sound; unsure about icon meanings","Map icons overlap slightly—could use clearer visual distinction"
+1,P02,Diya S.,21,Intermediate,High,Interested,11.3,Y,0,0,0,1,15.1,Y,0,0,85,82,"Minor confusion with alert hierarchy","Good clarity overall; suggest adding quick legend"
+2,P03,Rohit K.,20,Basic,Medium,For coursework,18.9,N,1,1,0,2,22.7,Y,0,1,68,69,"Confused during geofence task; map zoom not intuitive","Zoom and pan feel a bit sensitive—hard to pinpoint"
+3,P04,Neha R.,22,Advanced,High,Likes testing control tech,9.8,Y,0,0,0,0,11.6,Y,0,0,90,88,"Minor delay on telemetry refresh","Very intuitive layout; alert timeline helpful feature"
+4,P05,Ishan T.,19,Intermediate,Medium-High,Curious,13.4,Y,0,1,0,1,18.9,Y,0,1,79,77,"Color contrast weak for warning states","Layout makes sense, but orange alert blends in too much"
+5,P06,Tanya M.,21,Basic,High,Helping friend’s project,15.1,Y,0,1,0,1,20.2,N,1,1,72,73,"Unsure when to confirm count submission","Nice interface; color feedback could be more distinct"
